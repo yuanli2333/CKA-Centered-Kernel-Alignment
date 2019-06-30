@@ -9,6 +9,6 @@ numpy
 gzip
 ```
 
-Toy examples: **CKA.ipynb, CCA.ipynb**
+Toy examples: **CKA.ipynb**
 
 Updating...
